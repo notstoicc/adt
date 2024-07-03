@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/postsLayout.astro
-title: Moving to a new space
+title: Attached Detachment
 collection: 2022
-pubDate: 4/24
+pubDate: 7/03
 slug: new-space
-description: New homepage, from a new design
+description: An essential quality of life
 ---
 Regarding my personal website, it was a significant motivation for me when I first started learning front-end development. The idea that I could simply type a few characters in the browser and visit my own webpage published on the internet was really cool to me .
 
