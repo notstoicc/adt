@@ -15,21 +15,15 @@ export const projects: Projects<projectsType> = [
     previewLink: 'https://gallery.ekar.site',
   },
   {
-    projectName: 'Hug',
-    description: 'Use ChatGPT to relieve your frustration.',
-    repoLink: 'https://github.com/olcchi/hug',
-    previewLink: 'https://hug.ekar.site',
+    projectName: 'Stoic',
+    description: 'Another personal use website.',
+    repoLink: 'https://github.com/notstoicc/intro',
+    previewLink: 'https://stoicc.vercel.app/',
   },
   {
-    projectName: 'Aggr',
-    description: 'An aggregated search engine with multiple search engines.',
-    repoLink: 'https://github.com/olcchi/Aggr',
-    previewLink: 'https://aggr.ekar.site',
-  },
-  {
-    projectName: 'ekar.site',
+    projectName: 'ad0',
     description: 'The personal website you are browsing at this moment.',
-    repoLink: 'https://github.com/olcchi/ekar.site',
-    previewLink: 'https://ekar.site',
+    repoLink: 'https://github.com/notstoicc/adt',
+    previewLink: 'https://ad0.netlify.app',
   },
 ]
