@@ -36,4 +36,5 @@ To all you manipulative assholes out there, listen up: your games may ensnare th
 
 ---
 
-*and boy, don't you dare feel pity on your victims. Stop fooling yourself. You can't ever see your mistakes, can you :p?*
+*and bitch, don't you dare feel pity on your victims. Stop fooling yourself. You can't ever see your mistakes, can you :p?*
+<img src="../../../public/crd.png" alt="hard card">
