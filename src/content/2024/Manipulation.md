@@ -37,4 +37,4 @@ To all you manipulative assholes out there, listen up: your games may ensnare th
 ---
 
 *and bitch, don't you dare feel pity on your victims. Stop fooling yourself. You can't ever see your mistakes, can you :p?*
-![Burnt](../../../public/crd.png)
+![Burnt](../../../../public/crd.png)
