@@ -6,8 +6,6 @@ pubDate: 7/16
 slug: pirates
 description: for watching movies/series/anime
 ---
--> ![](https://a.imagem.app/oQikW0.png) <-
-
 # 📜 ➜ **Megathread**
 
 !!! info ➜ Not so fast sailor! Do this first
