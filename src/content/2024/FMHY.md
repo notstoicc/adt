@@ -28,6 +28,7 @@ scroll to check out..
 ### MacOS Piracy
 
 **[gibMacOS](https://github.com/corpnewt/gibMacOS)** - Download macOS
+
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download macOS Games
 **[qBittorrent](https://www.qbittorrent.org/)** - macOS Torrent Client
 **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/) - macOS Package Manager
