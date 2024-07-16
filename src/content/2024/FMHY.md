@@ -6,45 +6,8 @@ pubDate: 7/16
 slug: free-media-heck-yeah
 description: Free Media Heck Yeah
 ---
-# -> ***Beginners Guide to Piracy*** <-
-
-***
-**Table of Contents**
-[TOC2]
-
-***
-
-### FAQ
-
-> How can I improve my privacy online?
-We'd recommend checking out privacy guides like [SSD](https://ssd.eff.org/) and [The New Oil](https://thenewoil.org/).
-
-> I don't know what seeding or *insert another term* means...
-You will find almost all terms related to piracy and more in [The Piracy Glossary](https://rentry.org/the-piracy-glossary). Didn't find what you're looking for or still confused? Reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
-
-> How can I download / activate Windows or Microsoft Office for free?
-For Windows check out this [section](#windows-piracy), and for Microsoft Office check out this [guide](https://gravesoft.dev/download_windows_office/office_c2r_links/).
-
-> Where can I find *insert game title / movie title*?
-You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks) as well. You should also be able to find most movies you're looking for in the [streaming section](#streaming). For games, you can use [Rezi](https://rezi.one) or any other site listed [here](https://fmhy.net/gamingpiracyguide#download-games), and for newly released games check out [r/crackwatch](https://reddit.com/r/crackwatch).
-!!!info Pirated movie releases generally happen after a movie is digitally released or released via Blu-ray / DVD, which can take 3+ months after initially playing in theaters.
-
-!!!warning Please avoid downloading games from any site listed [here](https://fmhy.net/unsafesites) as they're very likely to contain malicious links.
-
-> How can I unlock *insert random game title* DLCs?
-Use the tools listed [here](https://fmhy.net/gamingpiracyguide#steam-epic) to unlock DLCs.
-
-> Should I install and use *insert random antivirus software* instead of using Windows Defender?
-No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus).
-!!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
-
- > How can I bypass a paywalled article?
-Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) / [filter list](https://github.com/bpc-clone/bypass-paywalls-clean-filters) to read the article easily.
-
-> How can I download an image from *insert stock image site*?
- You can use [this downloader](https://downloader.la/), and if it doesn't work you can find other stock image downloaders [here](https://fmhy.net/img-tools#stock-photos).
-
-***
+***FMHY***
+scroll to check out..
 
 ### Windows Piracy
 
@@ -74,7 +37,8 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Browser
 
-**[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)** - Normal Browsers
+**[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / 
+**[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)** - Normal Browsers
 **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)** - Privacy-Focused Browsers
 **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts)** - Add features & functionality to browsers
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
