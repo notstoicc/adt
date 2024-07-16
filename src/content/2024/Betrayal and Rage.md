@@ -1,5 +1,6 @@
 ---
 layout: ../../layouts/postsLayout.astro
+published: false
 title: Betral and Rage
 collection: 2024
 pubDate: 7/10
